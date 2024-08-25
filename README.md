@@ -1,5 +1,5 @@
-# Bota BİLEREK 5 Farklı Hata Bırakıldı
-**5 Hatayıda Çözüp Botu Başlatabilirsiniz**
+# Sistem'e BİLEREK 5 Farklı Hata Bırakıldı
+**5 Hatayıda Çözüp Sistem'i Başlatabilirsiniz**
 #
 #
 
