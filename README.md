@@ -5,7 +5,10 @@
 
 # SİSTEM'İN AMACI NE?
 **Mesela, VDS'de Bu Sistem Çalıştırılabilir, Ve Hesabınızın tokeni hiç düşmez.**
+
 **Ve Seste Aktif Kalır.**
+
+**Güvenli, Güvensiz: Ban Riski Yaratmaz, Gönül Rahatlıyla Kullanabilirsiniz.**
 
 # İLETİŞİM
 discord: just1nwashere.
