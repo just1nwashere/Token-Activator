@@ -3,8 +3,14 @@
 #
 #
 
+# SİSTEM'İN AMACI NE?
+**Mesela, VDS'de Bu Sistem Çalıştırılabilir, Ve Hesabınızın tokeni hiç düşmez.**
+**Ve Seste Aktif Kalır.**
+
 # İLETİŞİM
 discord: just1nwashere.
+#
+#
 
 # GÖRSELLER
 ![image](https://github.com/user-attachments/assets/4ce9050b-eb93-43ca-841b-0554e3a4a994)
