@@ -1,5 +1,5 @@
-# Sistem'e BİLEREK 5 Farklı Hata Bırakıldı
-**5 Hatayıda Çözüp Sistem'i Başlatabilirsiniz**
+# Sistem'e BİLEREK 6 Farklı Hata Bırakıldı
+**6 Hatayıda Çözüp Sistem'i Başlatabilirsiniz**
 #
 #
 
