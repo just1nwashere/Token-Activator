@@ -1,5 +1,3 @@
-const { Client } = require('discord.js-selfbot-v13');
-const { joinVoiceChannel } = require("@discordjs/voice");
 const Ayarlar = require("./ayarlar.json");
 
 client.on('ready', async () => {
